@@ -14,7 +14,7 @@ questions.forEach(function(question){
 })
 
 
-// Another method for solving this 
+// Another way for solving this
 
 
 // Traversing the DOM
